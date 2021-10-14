@@ -1,5 +1,5 @@
 module.exports = {
-    name: "bdo",
+    name: "bdo23423424",
     aliases: ["bb", "bdoceck", "kiki"],
     description: "this is a bdo command!",
     execute(message, args, cmd, client, Disocrd){

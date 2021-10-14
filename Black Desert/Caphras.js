@@ -3,6 +3,6 @@ module.exports = {
     aliases: ["c", "cp"],
     description: "caphras rechner",
     execute(message, args, cmd, client, Discord){
-        message.channel.send("https://grumpygreen.cricket/bdo-caphras-sim/")
+        message.channel.send("https://garmoth.com/caphras-calculator")
     }
 }

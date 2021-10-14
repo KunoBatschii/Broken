@@ -6,7 +6,7 @@ module.exports = {
         .setColor("#712e81")
         .setTitle("HELP")
         .setURL("")
-        .setDescription("**AP/DP Bracket = !apdp \nCaphras = !caphras, !c, !cp \nMusik = !play, !skip, !stop**")
+        .setDescription("**AP/DP Bracket = !apdp \nCaphras = !caphras, !c, !cp \n 100% Pen calculator by Chris Poli = !pen \n Musik = !play, !skip, !stop**")
 //        .addFields(
 //            {name: "Rule#1:", value: ":zap:  **Der generelle Umgangston sollte höflich und freundlich gegenüber den anderen sein!**"},
 //            {name: "Rule#2:", value: ":zap:  Im Text- und Sprachchat sind **Streitigkeiten, Beleidigungen, Provokation und Spam nicht erlaubt!**"},
